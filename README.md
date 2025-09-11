@@ -1,2 +1,2 @@
 # programming_exercises
-Exercices in C, C++, shell... with corrections
+Exercices in C, C++, shell, ... with corrections
